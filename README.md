@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🧑‍💻 Профиль разработчика
 
-<!--
-**loverMac/loverMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я разработчик с фокусом на низкоуровневые языки и оптимизацию. Особенно люблю работать с классическими и системными языками программирования.
 
-Here are some ideas to get you started:
+## 🚀 Любимые языки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/BASIC-000080?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="BASIC">
+  <img src="https://img.shields.io/badge/NASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="NASM">
+</div>
+
+## 💻 Технологический стек
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/BASIC-FF6600?style=flat-square" alt="BASIC">
+  <img src="https://img.shields.io/badge/NASM-8B0000?style=flat-square" alt="NASM">
+</div>
+
+## 🌟 Главный проект
+
+[![Website](https://img.shields.io/badge/Посетить_проект-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-website.com)
+**Название:** [Название вашего проекта](https://your-project-website.com)  
+**Описание:** [Краткое описание вашего главного проекта]
+
+## 📊 Статистика
+
+<div align="center">
+  
+  ![Profile Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark&hide_border=true&exclude_repo=repo1,repo2)
+</div>
