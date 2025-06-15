@@ -21,7 +21,7 @@
 
 ## 🌟 Главный проект
 
-[![Website](https://img.shields.io/badge/Посетить_проект-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-website.com)
+[![Website](https://img.shields.io/badge/Посетить_проект-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://basicpp.netlify.app/)
 **Название:** [BASIC ++
 ](https://basicpp.netlify.app/)  
 **Описание:** IDK
