@@ -26,11 +26,4 @@
 ](https://basicpp.netlify.app/)  
 **Описание:** IDK
 
-## 📊 Статистика
 
-<div align="center">
-  
-  ![Profile Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark&hide_border=true&exclude_repo=repo1,repo2)
-</div>
