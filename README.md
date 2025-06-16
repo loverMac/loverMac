@@ -1,41 +1,38 @@
-# Профиль любителя
+# ПРОФЕССИОНАЛЬНЫЙ СТЕК ТЕХНОЛОГИЙ
 
-[![Основной проект](https://img.shields.io/badge/Перейти_к_проекту-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://basicpp.netlify.app/)
+[![Основной проект](https://img.shields.io/badge/ПЕРЕЙТИ_К_ПРОЕКТУ-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-website.com)
 
-## Стек
-
-### Знаю
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="100% владения">
-  <img src="https://img.shields.io/badge/BASIC-FF6600?logoColor=white" alt="BASIC" title="100% владения">
+## ЭКСПЕРТНЫЙ УРОВЕНЬ
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"></a>
+  <a href="#"><img src="https://img.shields.io/badge/BASIC-FF6600?style=for-the-badge&logoColor=white" height="40"></a>
 </div>
 
-### Для работы
-<div align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+## ПРОИЗВОДСТВЕННОЕ ИСПОЛЬЗОВАНИЕ
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white" height="40"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"></a>
 </div>
 
-### Для души
-<div align="left">
-  <img src="https://img.shields.io/badge/NASM-8B0000?logo=assemblyscript&logoColor=white" alt="NASM">
+## СПЕЦИАЛИЗИРОВАННЫЕ НАВЫКИ
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/NASM-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=white" height="40"></a>
 </div>
 
-## Коротко
+---
 
-**Python** - Полное владение, включая продвинутые техники оптимизации  
-**BASIC** - Глубокие знания legacy-систем и реверс-инжиниринга  
-**Swift** - Коммерческий опыт разработки iOS-приложений   
-**NASM** - Низкоуровневая разработка, embedded systems  
+### ДЕТАЛИЗАЦИЯ НАВЫКОВ
+- **Python**: Продвинутое владение, включая асинхронное программирование и оптимизацию
+- **BASIC**: Глубокие знания legacy-систем и реинжиниринга
+- **Swift**: Коммерческий опыт разработки iOS-приложений
+- **C++**: Системное программирование, алгоритмы и структуры данных
+- **NASM**: Низкоуровневая разработка и оптимизация
 
-## Основной проект
+---
 
-**[BAsic ++](https://basicpp.netlify.app/)**  
-Краткое описание проекта: Мы хотим вернуть популярность BASIC
-
-> "Мы все играем по правилам системы, пока не найдем способ их изменить."  
-> — Mr. Robot, S01E03
+> "Контроль - это иллюзия. Иногда нужно отпустить ситуацию."  
+> — Mr. Robot
 
 <div align="right">
-  <sup>Последнее обновление: июнь 2025</sup>
+  <small>Обновлено: июнь 2024</small>
 </div>
