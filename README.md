@@ -17,6 +17,7 @@
 ## Для души
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/NASM-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=white" height="40"></a>
+   <a href="#"><img src="https://img.shields.io/badge/BASIC-FF6600?style=for-the-badge&logoColor=white" height="40"></a>
 </div>
 
 ---
