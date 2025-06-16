@@ -1,6 +1,6 @@
 # Профиль любителя
 
-[![Основной проект](https://img.shields.io/badge/Перейти_к_проекту-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-website.com)
+[![Основной проект](https://img.shields.io/badge/Перейти_к_проекту-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://basicpp.netlify.app/)
 
 ## Стек
 
