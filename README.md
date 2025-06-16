@@ -1,6 +1,6 @@
 # ПРОФИЛЬ РАЗРАБА
 
-[BASIC ++ (https://img.shields.io/badge/ПЕРЕЙТИ_К_ПРОЕКТУ-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://basicpp.netlify.app/)
+[BASIC ++ ](https://img.shields.io/badge/ПЕРЕЙТИ_К_ПРОЕКТУ-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)(https://basicpp.netlify.app/)
 
 ## Знаю
 <div align="center">
