@@ -1,29 +1,41 @@
-# 🧑‍💻 Мой профиль
+# Профиль любителя
 
-Привет! Я разработчик BASIC ++
+[![Основной проект](https://img.shields.io/badge/Перейти_к_проекту-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-website.com)
 
-## 🚀 Любимые языки
+## Стек
 
-<div align="center">
-  <img src="https://img.shields.io/badge/BASIC-000080?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="BASIC">
-  <img src="https://img.shields.io/badge/NASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="NASM">
+### Знаю
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="100% владения">
+  <img src="https://img.shields.io/badge/BASIC-FF6600?logoColor=white" alt="BASIC" title="100% владения">
 </div>
 
-## 💻 Технологический стек
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/BASIC-FF6600?style=flat-square" alt="BASIC">
-  <img src="https://img.shields.io/badge/NASM-8B0000?style=flat-square" alt="NASM">
+### Для работы
+<div align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 </div>
 
-## 🌟 Главный проект
+### Для души
+<div align="left">
+  <img src="https://img.shields.io/badge/NASM-8B0000?logo=assemblyscript&logoColor=white" alt="NASM">
+</div>
 
-[![Website](https://img.shields.io/badge/Посетить_проект-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://basicpp.netlify.app/)
-**Название:** [BASIC ++
-](https://basicpp.netlify.app/)  
-**Описание:** IDK
+## Коротко
 
+**Python** - Полное владение, включая продвинутые техники оптимизации  
+**BASIC** - Глубокие знания legacy-систем и реверс-инжиниринга  
+**Swift** - Коммерческий опыт разработки iOS-приложений   
+**NASM** - Низкоуровневая разработка, embedded systems  
 
+## Основной проект
+
+**[Название проекта](https://your-project-website.com)**  
+Краткое описание проекта: Мы хотим вернуть популярность BASIC
+
+> "Мы все играем по правилам системы, пока не найдем способ их изменить."  
+> — Mr. Robot, S01E03
+
+<div align="right">
+  <sup>Последнее обновление: июнь 2025</sup>
+</div>
