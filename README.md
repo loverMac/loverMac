@@ -34,5 +34,5 @@
 > — Mr. Robot
 
 <div align="right">
-  <small>Обновлено: июнь 2022</small>
+  <small>Обновлено: июнь 2025</small>
 </div>
